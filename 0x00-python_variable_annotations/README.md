@@ -284,4 +284,3 @@ Directory: 0x00-python_variable_annotations
 File: 9-element_length.py
  
 Copyright © 2024 ALX, All rights reserved.
-
